@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://initsites.help4nes.workers.dev/sitemap.xml
